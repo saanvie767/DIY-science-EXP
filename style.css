@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: red;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 40px 20px;
+  background-color: #d1ecf1;
+}
+
+header h1 {
+  font-family: 'Courier New', Courier, monospace;
+  color: #007bff;
+}
+
+section {
+  padding: 20px;
+}
+
+section h2 {
+  font-family: Georgia, serif;
+  color: #e74c3c;
+}
+
+section h3 {
+  font-family: 'Lucida Handwriting', cursive;
+  color: #2c3e50;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+p {
+  line-height: 1.6;
+}
